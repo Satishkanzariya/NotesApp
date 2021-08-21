@@ -10,9 +10,6 @@
 - UIImageView
 - UIImagePickerController
 
-## GIF
-#####  1
-![Page 1](Notes.gif)
 ## ScreenShot
 ##### Page 1
 ![Page 1](N1.png)
