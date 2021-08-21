@@ -25,9 +25,3 @@
 
 ##### Page 5
 ![Page 4](N5.png)
-
-##### Page 6
-![Page 4](N6.png)
-
-##### Page 7
-![Page 4](N7.png)
